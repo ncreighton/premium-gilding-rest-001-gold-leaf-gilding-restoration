@@ -1,0 +1,2 @@
+# premium-gilding-rest-001-gold-leaf-gilding-restoration
+Juggling multiple gilding restoration projects without losing track of materials, timelines, or client details? The Gold Leaf Gilding Restoration Planner transforms the chaos of restoration work into a streamlined, professional system.  This Notion template is purpose-built for gilding restoration specialists who need to manage projects, track gold
